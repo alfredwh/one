@@ -19,6 +19,6 @@ OneAndroidApp/local.properties
 OneAndroidApp/.idea/workspace.xml
 OneAndroidApp/.idea/libraries
 OneAndroidApp/.DS_Store
-OneAndroidApp/build
+OneAndroidApp/app/build
 OneAndroidApp/captures
 OneAndroidApp/app/buildls
